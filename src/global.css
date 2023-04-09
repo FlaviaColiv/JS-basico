@@ -15,7 +15,8 @@
 .cabecalho {
   display: grid;
   grid-template-areas: 
-  "logo titulo menu";
+  "logo titulo menu"
+  "logo titulo2 menu";
   grid-template-columns: repeat(3);
   justify-content: space-around;
   align-items: center;
@@ -35,6 +36,11 @@
 
 .titulo {
   grid-area: titulo;
+  color: var(--cor-fonte-geral);
+}
+
+.titulo2 {
+  grid-area: titulo2;
   color: var(--cor-fonte-geral);
 }
 
@@ -58,7 +64,6 @@
   background-color: var(--background-color-links);
   border-radius: 5%;
   color: var(--cor-fonte-links);
-  
 }
 
 .endereco:hover {
