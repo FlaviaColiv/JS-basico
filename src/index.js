@@ -25,9 +25,3 @@ if(usuarioVerificado){
 }
 
 let pessoa = null
-
-
-
-
-
-
