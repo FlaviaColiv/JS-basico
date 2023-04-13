@@ -15,6 +15,16 @@
 
 // console.log(idade)
 let nome = "Flávia";
+let numero = 0.6666666666
+let usuarioVerificado = true
+
+if(usuarioVerificado){
+  console.log("Usuário Verificado.")
+}else{
+  console.log("Usuário Não é Verificado.")
+}
+
+let pessoa = null
 
 
 
