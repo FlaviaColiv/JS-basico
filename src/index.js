@@ -30,8 +30,35 @@
 
 // console.log("A Resposta está na escolha, de quando se tomou consciência sobre a possibilidade daquele ato e escolha ser um fator de impureza da alma, parar imediatamente, se perdoar, e nunca mais repetir aquela atitute, aquele ato. Escolher fazer diferente do que foi inflenciado até então, e fazer a NOVA vida de acordo ao que traz de volta pureza da alma, que nunca foi perdida, só sofreu sujicidade e não sua extinção. Com as escolhas certas, recupera-se aquela pureza que estava escondida.") 
 /////////////////////////////////////////////////
-const a = 3
-const b = 3
 
-console.log(a==b)
-console.log(a!=b)
+// OPERADORES LÓGICOS
+
+// const a = 3
+// const b = 3
+// const c = 1
+
+// console.log(a==b)
+// console.log(a!=b)
+// console.log(c < b)
+// console.log(b <= a)
+
+// console.log(a !== b && c < a)
+// console.log(a != b || c > a)
+// console.log(!(a != b))
+
+//OPERADORES MATEMÁTICOS
+
+// let primeiroValor = 11
+// let segundoValor = 2
+
+// console.log(primeiroValor + segundoValor)
+// console.log(primeiroValor - segundoValor)
+// console.log(primeiroValor / segundoValor)
+// console.log(primeiroValor * segundoValor)
+// console.log(primeiroValor % segundoValor)
+
+// LAÇOS
+
+for(let i = 0; i <= 5; i++) {
+  console.log(i)
+}
