@@ -73,7 +73,6 @@ while (d < e) {
 
 var f = 1
 
-
 do{
   console.log('entrou ' + f)
   f++
