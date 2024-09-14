@@ -111,11 +111,11 @@
 ///////////////////////////////////////////////////////
 //FUNÇÕES
 
-function primeiroNome(nomeIncentivo = 'Aprendiz'){
-  alert('Muito bem ' + nomeIncentivo + ', você chegou ao JS, continue assim! ')
-}
+// function primeiroNome(nomeIncentivo = 'Aprendiz'){
+//   alert('Muito bem ' + nomeIncentivo + ', você chegou ao JS, continue assim! ')
+// }
 
-primeiroNome('Flávia')
+// primeiroNome('Flávia')
 
 // function soma(numero1, numero2){
 //   return numero1 + numero2
