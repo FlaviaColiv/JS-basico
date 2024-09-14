@@ -59,21 +59,55 @@
 
 // LAÇOS
 
-for(let i = 0; i <= 5; i++) {
-  console.log("Olá!")
-}
+// for(let i = 0; i <= 5; i++) {
+//   console.log("Olá!")
+// }
 
-let d = 10
-let e = 15
+// let d = 10
+// let e = 15
 
-while (d < e) {
-  console.log('incrementando a variável d ' + d)
-  d++;
-}
+// while (d < e) {
+//   console.log('incrementando a variável d ' + d)
+//   d++;
+// }
 
-var f = 1
+// var f = 1
 
-do{
-  console.log('entrou ' + f)
-  f++
-}while(f <= 5)
+// do{
+//   console.log('entrou ' + f)
+//   f++
+// }while(f <= 5)
+
+/////////////////////////////////////////////////////////
+// CONDICIONAIS
+
+// let nomeFilme = 'IT'
+
+// // if(nomeFilme === 'Vingadores'){
+// //   console.log('É o filme dos Vingadores')
+// // }else if(nomeFilme == 'IT'){
+// //   console.log('É o filme do IT')
+// // }else{
+// //   console.log('É outro filme.')
+// // }
+
+// nomeFilme == 'IT' ? console.log('É o filme do IT') : console.log('É outro filme.')
+
+// switch (nomeFilme) {
+//   case 'Vingadores':
+//     console.log('È o filme Vingadores')
+//     break;
+//   default:
+//     console.log('É outro filme.')
+//     break;
+// }
+
+// let avaliacao = 1
+
+// switch(avaliacao){
+
+// }
+
+///////////////////////////////////////////////////////
+//FUNÇÕES
+
