@@ -60,5 +60,20 @@
 // LAÇOS
 
 for(let i = 0; i <= 5; i++) {
-  console.log(i)
+  console.log("Olá!")
 }
+
+let d = 10
+let e = 15
+
+while (d < e) {
+  console.log('incrementando a variável d ' + d)
+  d++;
+}
+
+var f = 1
+
+do{
+  console.log('entrou ' + f)
+  f++
+}while(f <= 5)
