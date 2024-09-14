@@ -111,3 +111,16 @@
 ///////////////////////////////////////////////////////
 //FUNÇÕES
 
+function primeiroNome(nomeIncentivo = 'Aprendiz'){
+  alert('Muito bem ' + nomeIncentivo + ', você chegou ao JS, continue assim! ')
+}
+
+primeiroNome('Flávia')
+
+// function soma(numero1, numero2){
+//   return numero1 + numero2
+// }
+
+// let resultadoSoma = soma(1, 2)
+// console.log(resultadoSoma)
+
