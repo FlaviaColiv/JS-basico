@@ -22,5 +22,9 @@ if (querHospedagem) {
 
 for (let i = 0; i <= 10; i++) {
     console.log("O número atual é o " + i);
-    
+}
+
+for (let i = 0; i <= 10; i++) {
+    var dobro = i * 2;
+    console.log("O dobro do número " + i + " é " + dobro);
 }
