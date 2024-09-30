@@ -20,7 +20,7 @@ if (querHospedagem) {
     alert("Que pena! Você parecia ser uma pessoa mais legal")
 }
 
-for (var i = 0; i <= 10; i++) {
+for (let i = 0; i <= 10; i++) {
     console.log("O número atual é o " + i);
     
 }
